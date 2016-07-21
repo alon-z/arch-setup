@@ -1,4 +1,6 @@
 #!/bin/bash
 
 # Installing bspwm
-pacman -S bspwm --force
+pacman -S bspwm
+y
+
